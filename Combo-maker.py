@@ -11,7 +11,7 @@ def tt():
 def haa():
     for kar in range(1000):
         dd=random.randint(1000000, 9999999)
-        sys.stdout = open("combo.txt", "a")
+        sys.stdout = open("Combo.txt", "a")
         print(str(qw)+str(sk)+str(dd)+str(hh)+str("0"+sk)+str(dd))
         dd=random.randint(1000000, 9999999)
         print(str(qw)+str(sk)+str(dd)+str(hh)+str("123456123456"))
