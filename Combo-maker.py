@@ -4,7 +4,7 @@ print("=============================\n ba number\n========================\n bo 
 sk=input("saratakay: ")
 time.sleep(1)
 gg=1
-qw="+964"
+qw="0"
 hh=":"
 def tt():
     print(" \n   bosta 1daqa ean 2daqa\n\n")
